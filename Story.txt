@@ -1,4 +1,4 @@
-Tähän tulee paljon tekstiä jolla ei ole mitään merkitystä tai jotain muuta.
+
 Exercise 3: Practising working with commits 
 Create a folder on the command line and turn it into a Git project.
 Create a file called "story.txt" in your project. Add a lot of text inside.
